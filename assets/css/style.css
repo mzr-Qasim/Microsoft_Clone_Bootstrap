@@ -379,8 +379,8 @@ div.carousel-buttons{
 
     .Hero-section .carousel .carousel-inner .hero-section-1 .carousel-caption{
         position: static;
-        width: 90%;
-        margin-top: 45px;
+        width: 95%;
+        margin-top: 30px;
         margin-right: auto;
         margin-left: auto;
         background-color: white;
@@ -448,7 +448,7 @@ div.carousel-buttons{
     .Hero-section .carousel .carousel-inner .hero-section-1 .carousel-caption{
         position: static;
         width: 90%;
-        margin-top: 50px;
+        margin-top: 40px;
         margin-right: auto;
         margin-left: auto;
         background-color: white;
